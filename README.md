@@ -1,3 +1,5 @@
+# Space Invaders Deep Reinforcement Learning
+
 **Članovi tima:**
 Đorđe Ivković, SW54-2016, Grupa 4
 
@@ -16,3 +18,4 @@ Broj predjenih nivoa i skupljenih poena.
 
 **Validacija rešenja:**
 Posmatraće se da li se veštine agenta u odnosu na vreme treniranja povećavaju tj. da li agent nakon dužeg treniranja osvaja veći broj poena nego nakon kraćeg.
+ 
